@@ -68,7 +68,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "pwa-switcher": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
